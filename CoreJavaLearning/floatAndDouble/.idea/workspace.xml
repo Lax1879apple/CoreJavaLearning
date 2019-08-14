@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1073e866-f6fe-420e-b12d-1511133380b8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../ByteShortIntLong/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ByteShortIntLong/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ByteShortIntLong/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ByteShortIntLong/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ByteShortIntLong/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ByteShortIntLong/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ByteShortIntLong/ByteShortIntLong.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ByteShortIntLong/out/production/ByteShortIntLong/com/company/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ByteShortIntLong/src/com/company/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FirstJavaProject/.classpath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FirstJavaProject/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FirstJavaProject/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloLaxu/.idea/$PRODUCT_WORKSPACE_FILE$" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloLaxu/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloLaxu/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloLaxu/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloLaxu/HelloLaxu.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloLaxu/out/production/HelloLaxu/Hello.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloLaxu/src/Hello.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorld/.classpath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorld/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorld/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IntergerProject/.classpath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IntergerProject/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IntergerProject/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IntergerProject/bin/myNumbers.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IntergerProject/src/myNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../challange3OnByteIntShortLong/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../challange3OnByteIntShortLong/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../challange3OnByteIntShortLong/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../challange3OnByteIntShortLong/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../challange3OnByteIntShortLong/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../challange3OnByteIntShortLong/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../challange3OnByteIntShortLong/challange3OnByteIntShortLong.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../challange3OnByteIntShortLong/out/production/challange3OnByteIntShortLong/com/company/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../challange3OnByteIntShortLong/src/com/company/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/floatAndDouble.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/JavaLearning/Main.java" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1PJCqE8K64u8U8aMYtKvB1lWwgl" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.JavaLearning.Main" />
+      <module name="floatAndDouble" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1073e866-f6fe-420e-b12d-1511133380b8" name="Default Changelist" comment="" />
+      <created>1565583000785</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1565583000785</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
